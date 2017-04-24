@@ -1,0 +1,15 @@
+<component info='CentraStage Component'>
+  <general>
+    <name>CentreStage to Autostart</name>
+    <category>scripts</category>
+    <description>Script to change CentreStage from Automatic (Delayed) to Automatic startup.
+
+Icon: https://openclipart.org/detail/230488/tortoise-and-hare-fast-and-slow</description>
+    <uid>fd035944-fadd-45f9-a56f-2b2912b3acd1</uid>
+    <hash>dbfae22726f9c357593c563c103328ae</hash>
+    <version>4</version>
+    <timeout>3600</timeout>
+    <securityLevel>1</securityLevel>
+    <installType>batch</installType>
+  </general>
+</component>
